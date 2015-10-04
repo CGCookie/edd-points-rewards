@@ -1,0 +1,17 @@
+{
+    "name": "cgcookie/edd-points-rewards",
+    "type": "wordpress-plugin",
+    "description": "Add a points system to EDD",
+    "keywords": [ "edd", "points", "rewards", "plugin"],
+    "homepage": "http://easydigitaldownloads.com",
+    "authors": [
+        {
+            "name": "WPWeb",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0.6"
+    }
+}
