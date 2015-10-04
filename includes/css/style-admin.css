@@ -1,0 +1,130 @@
+.edd-points-left {
+	float: left;
+}
+.edd-points-right {
+	float: right;
+}
+.edd-points-social-none {
+	display:none;
+}
+
+/***************** CSS for Social Login Page Starts ******************/
+.edd-points-social-submit {
+	margin:15px 0 0 0 !important;
+}
+.edd-points-sortable tbody td{
+	cursor:move !important;
+}
+.edd-points-social-chart-container{
+	text-align: center; 
+	margin: 30px 0 0; 
+	width:650px; 
+	margin:auto;
+}
+/***************** CSS for Social Login Page Ends******************/
+
+/********** CSS for Shortcode Popup Starts ***********/
+.edd-points-popup-content {
+    margin: 0 auto;
+    min-height: 340px;
+    display: none;
+	position: fixed; /*absolute*/
+	border: 1px solid #555555;
+	top: 16%;
+	text-align: left;
+	max-width: 480px;
+	background: none repeat scroll 0 0 #EEEEEE;
+	z-index:9995;
+	overflow: auto;
+	box-shadow: 0 4px 30px #000000;
+	color: #000000;
+	left:0;
+	right:0;
+}
+.edd-points-popup-content .description {
+	margin-left: 0px !important
+}
+.edd-points-popup-overlay {
+	display: none;
+	background-color: #000000;
+    height: 100%;
+    left: 0;
+    opacity: 0.75;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9991;
+}
+.edd-points-header-title {
+    float: left;
+    padding: 6px 10px 0;
+}
+.edd-points-popup-close {
+ 	float: right;
+    padding: 6px 10px 0;
+    text-align: right;
+}
+.edd-points-header {
+    background-color: #222222;
+    color: #CFCFCF;
+    min-height: 30px;
+    position: relative;
+    width: 100%;
+}
+.edd-points-popup table.form-table {
+	margin : 15px !important;
+	width: 95% !important;	
+}
+.edd-points-loader {
+	display:none;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.edd-points-validate-error {
+	border-color: #FF0000 !important;
+}
+#edd_points_user_current_balance {
+	color: #008000
+}
+#edd-points-shortcode-error {
+	color: red;
+}
+#edd-points-insert-container {
+	margin: 15px;
+}
+#edd-points-shortcode-error, 
+#edd-points-insert-container,
+.edd-points-shortcodes-options {
+ 	display: block;
+}
+#edd-points-message-label{
+	width:90% !important;
+}
+.pointslog #customer{width:35% !important;}
+.pointslog #points{width:12% !important;}
+.pointslog #event{width:40% !important;}
+.pointslog #date{width:13% !important;}
+/***************** CSS for Shortcode Popup Ends******************/
+.edd-points-user-profile-balance h2 {
+	padding: 0;
+	margin: 0;
+}
+/***************** Customize Chosen CSS Start *******************/
+.tablenav .actions {
+	overflow: visible;
+}
+.alignleft.actions .chzn-container-single {
+    display: inline-block;
+    vertical-align: middle;
+}
+.chzn-search input {
+	width: 100% !important;
+}
+/***************** Customize Chosen CSS End ********************/
+.edd-points-reset-points {
+	margin-left: 6px;
+}
+.post-type-download .fixed .column-edd_points_earned,
+.post-type-download .fixed .column-edd_points_max_discount{
+	width: 13%;
+}

@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Points and Rewards v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-12 12:40:03+0000\n"
+"Last-Translator: worldweb <jigarshah6676@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: edd-points-and-rewards.php:108
+#: edd-points-and-rewards.php:114
+#: edd-points-and-rewards.php:120
+#@ eddpoints
+msgid "1"
+msgstr ""
+
+#: edd-points-and-rewards.php:114
+#: edd-points-and-rewards.php:120
+#@ eddpoints
+msgid "100"
+msgstr ""
+
+#: edd-points-and-rewards.php:138
+#: includes/edd-points-post-types.php:20
+#@ eddpoints
+msgid "Point"
+msgstr ""
+
+#: edd-points-and-rewards.php:138
+#: includes/admin/class-edd-points-admin.php:35
+#: includes/admin/class-edd-points-admin.php:558
+#: includes/admin/class-edd-points-admin.php:613
+#: includes/admin/forms/class-edd-points-list.php:209
+#: includes/edd-points-post-types.php:19
+#: includes/edd-points-post-types.php:31
+#@ eddpoints
+msgid "Points"
+msgstr ""
+
+#: edd-points-and-rewards.php:144
+#, php-format
+#@ eddpoints
+msgid "Purchase this product now and earn %s!"
+msgstr ""
+
+#: edd-points-and-rewards.php:150
+#, php-format
+#@ eddpoints
+msgid "Complete your order and earn %s for a discount on a future purchase."
+msgstr ""
+
+#: edd-points-and-rewards.php:156
+#, php-format
+#@ eddpoints
+msgid "Use %s for a %s discount on this order."
+msgstr ""
+
+#: edd-points-and-rewards.php:162
+#, php-format
+#@ eddpoints
+msgid "You need to register an account in order to earn %s."
+msgstr ""
+
+#: edd-points-and-rewards.php:168
+#, php-format
+#@ eddpoints
+msgid "You need to register an account in order to fund %s into your account."
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:61
+#@ eddpoints
+msgid "History"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:63
+#@ eddpoints
+msgid "Adjust"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:81
+#: includes/admin/forms/class-edd-points-list.php:361
+#@ eddpoints
+msgid "Points Log"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:96
+#@ eddpoints
+msgid "Download Points and Rewards Configuration"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:331
+#: includes/admin/forms/class-edd-points-list.php:172
+#@ eddpoints
+msgid "Show all customer"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:408
+#: includes/class-edd-points-public.php:135
+#, php-format
+#@ eddpoints
+msgid "%s earned for purchasing the downloads."
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:409
+#: includes/class-edd-points-public.php:136
+#, php-format
+#@ eddpoints
+msgid "Get %s for purchasing the downloads."
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:506
+#: includes/class-edd-points-renderer.php:389
+#: includes/class-edd-points-renderer.php:422
+#@ eddpoints
+msgid "Points Earned"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:507
+#: includes/class-edd-points-renderer.php:394
+#: includes/class-edd-points-renderer.php:429
+#@ eddpoints
+msgid "Maximum Points Discount"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:554
+#: includes/admin/class-edd-points-admin.php:555
+#@ eddpoints
+msgid "None"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:560
+#@ eddpoints
+msgid "Earned:"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:561
+#@ eddpoints
+msgid "Redeemed:"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:577
+#@ eddpoints
+msgid "Adds a points earned by buyer for this purchase"
+msgstr ""
+
+#: includes/admin/class-edd-points-admin.php:578
+#@ eddpoints
+msgid "Adds a points redeemed by buyer for this purchase"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:162
+#@ eddpoints
+msgid "Order Placed"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:163
+#@ eddpoints
+msgid "Order Redeem"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:166
+#@ eddpoints
+msgid "Account Signup"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:167
+#@ eddpoints
+msgid "Manual"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:183
+#@ eddpoints
+msgid "Show All Event Types"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:193
+#@ eddpoints
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:208
+#@ eddpoints
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:210
+#@ eddpoints
+msgid "Event"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:211
+#@ eddpoints
+msgid "Date"
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:239
+#: includes/class-edd-points-renderer.php:128
+#@ eddpoints
+msgid "No points log found."
+msgstr ""
+
+#: includes/admin/forms/class-edd-points-list.php:370
+#@ eddpoints
+msgid "Search"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:20
+#@ eddpoints
+msgid "Edit Users Points Balance"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:21
+#@ eddpoints
+msgid "Close"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:29
+#@ eddpoints
+msgid "ID"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:32
+#@ eddpoints
+msgid "User"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:35
+#@ eddpoints
+msgid "Current Balance"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:51
+#@ eddpoints
+msgid "Amount:"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:53
+#@ eddpoints
+msgid "A positive or negative value."
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:58
+#@ eddpoints
+msgid "Log Entry:"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:60
+#@ eddpoints
+msgid "(optional)"
+msgstr ""
+
+#: includes/admin/forms/edd-points-user-balance-popup.php:65
+#: includes/class-edd-points-scripts.php:81
+#@ eddpoints
+msgid "Update Balance"
+msgstr ""
+
+#: includes/class-edd-points-model.php:176
+#, php-format
+#@ eddpoints
+msgid "%s earned for purchase"
+msgstr ""
+
+#: includes/class-edd-points-model.php:180
+#, php-format
+#@ eddpoints
+msgid "%s redeemed towards purchase"
+msgstr ""
+
+#: includes/class-edd-points-model.php:184
+#, php-format
+#@ eddpoints
+msgid "%s earned for account signup"
+msgstr ""
+
+#: includes/class-edd-points-model.php:208
+#, php-format
+#@ eddpoints
+msgid "%d order(s) updated."
+msgstr ""
+
+#: includes/class-edd-points-model.php:215
+#@ eddpoints
+msgid "Points And Rewards Options"
+msgstr ""
+
+#: includes/class-edd-points-model.php:216
+#@ eddpoints
+msgid "Configure Points And Rewards Settings"
+msgstr ""
+
+#: includes/class-edd-points-model.php:223
+#@ eddpoints
+msgid "Points Settings"
+msgstr ""
+
+#: includes/class-edd-points-model.php:224
+#: includes/class-edd-points-model.php:308
+#@ eddpoints
+msgid "Configure Points Settings"
+msgstr ""
+
+#: includes/class-edd-points-model.php:229
+#@ eddpoints
+msgid "Earn Points Conversion Rate:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:230
+#@ eddpoints
+msgid "Set the number of points awarded based on the product price."
+msgstr ""
+
+#: includes/class-edd-points-model.php:236
+#@ eddpoints
+msgid "Redeem Points Conversion Rate:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:237
+#@ eddpoints
+msgid "Set the value of points redeemed for a discount."
+msgstr ""
+
+#: includes/class-edd-points-model.php:243
+#@ eddpoints
+msgid "Buy Points Conversion Rate:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:244
+#@ eddpoints
+msgid "Set the value for buy points."
+msgstr ""
+
+#: includes/class-edd-points-model.php:250
+#@ eddpoints
+msgid "Maximum Cart Discount:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:251
+#@ eddpoints
+msgid "Set the maximum discount allowed for the cart when redeeming points. Leave blank to disable."
+msgstr ""
+
+#: includes/class-edd-points-model.php:257
+#@ eddpoints
+msgid "Maximum Per-Product Points Discount:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:258
+#@ eddpoints
+msgid "Set the maximum per-product discount allowed for the cart when redeeming points. Leave blank to disable."
+msgstr ""
+
+#: includes/class-edd-points-model.php:264
+#@ eddpoints
+msgid "Points Label:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:265
+#@ eddpoints
+msgid "The label used to refer the points on the frontend, singular and plural."
+msgstr ""
+
+#: includes/class-edd-points-model.php:271
+#@ eddpoints
+msgid "Product / Cart / Checkout Messages"
+msgstr ""
+
+#: includes/class-edd-points-model.php:272
+#@ eddpoints
+msgid "Configure Message Settings"
+msgstr ""
+
+#: includes/class-edd-points-model.php:277
+#@ eddpoints
+msgid "Single Product Page Message:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:278
+#, php-format
+#@ eddpoints
+msgid "Add an optional message to the single product page below the price. Customize the message using %s and %s.Limited HTML is allowed.Leave blank to disable."
+msgstr ""
+
+#: includes/class-edd-points-model.php:283
+#@ eddpoints
+msgid "Earn Points Cart / Checkout Page Message:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:284
+#, php-format
+#@ eddpoints
+msgid "Displayed on the cart and checkout page when points are earned. Customize the message using %s and %s.Limited HTML is allowed."
+msgstr ""
+
+#: includes/class-edd-points-model.php:289
+#@ eddpoints
+msgid "Reedem Points Cart / Checkout Page Message:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:290
+#, php-format
+#@ eddpoints
+msgid "Displayed on the cart and checkout page when points are available for redemption. Customize the message using %s, %s, and %s.Limited HTML is allowed."
+msgstr ""
+
+#: includes/class-edd-points-model.php:295
+#@ eddpoints
+msgid "Guest User Cart/Chekout Page Message:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:296
+#, php-format
+#@ eddpoints
+msgid "Displayed on the cart and checkout page for guest users to indicate to create an account for earn the points. Customize the message using %s, %s and %s. Limited HTML is allowed. Leave blank to disable."
+msgstr ""
+
+#: includes/class-edd-points-model.php:301
+#@ eddpoints
+msgid "Guest User Cart/Chekout Page Buy Message:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:302
+#, php-format
+#@ eddpoints
+msgid "Displayed on the cart and checkout page for guest users to indicate to create an account to get points into their account. Customize the message using %s and %s. Limited HTML is allowed. Leave blank to disable."
+msgstr ""
+
+#: includes/class-edd-points-model.php:307
+#@ eddpoints
+msgid "Points Earned For Actions"
+msgstr ""
+
+#: includes/class-edd-points-model.php:313
+#@ eddpoints
+msgid "Points earned for account signup:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:314
+#@ eddpoints
+msgid "Enter the amount of points earned when a customer signs up for a new account."
+msgstr ""
+
+#: includes/class-edd-points-model.php:320
+#@ eddpoints
+msgid "Apply Points to Previous Orders:"
+msgstr ""
+
+#: includes/class-edd-points-model.php:321
+#@ eddpoints
+msgid "This will apply points to all previous orders and cannot be reversed."
+msgstr ""
+
+#: includes/class-edd-points-model.php:324
+#: includes/edd-points-misc-functions.php:88
+#@ eddpoints
+msgid "Apply Points"
+msgstr ""
+
+#: includes/class-edd-points-model.php:351
+#@ eddpoints
+msgid " seconds ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:353
+#@ eddpoints
+msgid "about a minute ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:355
+#@ eddpoints
+msgid "minutes ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:360
+#@ eddpoints
+msgid "1 hour ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:364
+#@ eddpoints
+msgid "hours ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:368
+#@ eddpoints
+msgid "1 day ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:372
+#@ eddpoints
+msgid "days ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:376
+#@ eddpoints
+msgid "1 week ago"
+msgstr ""
+
+#: includes/class-edd-points-model.php:380
+#@ eddpoints
+msgid "weeks ago"
+msgstr ""
+
+#: includes/class-edd-points-pagination-public.php:26
+#@ eddpoints
+msgid "Next"
+msgstr ""
+
+#: includes/class-edd-points-pagination-public.php:27
+#@ eddpoints
+msgid "Previous"
+msgstr ""
+
+#: includes/class-edd-points-public.php:47
+#, php-format
+#@ eddpoints
+msgid "%s for Signup"
+msgstr ""
+
+#: includes/class-edd-points-public.php:48
+#, php-format
+#@ eddpoints
+msgid "Get %s for signing up new account"
+msgstr ""
+
+#: includes/class-edd-points-public.php:94
+#, php-format
+#@ eddpoints
+msgid "Redeem %s for purchase"
+msgstr ""
+
+#: includes/class-edd-points-public.php:95
+#, php-format
+#@ eddpoints
+msgid "%s redeemed for purchasing download by redeeming the points and get discounts."
+msgstr ""
+
+#: includes/class-edd-points-public.php:177
+#@ eddpoints
+msgid "My Balance:"
+msgstr ""
+
+#: includes/class-edd-points-public.php:223
+#: includes/class-edd-points-renderer.php:275
+#@ eddpoints
+msgid "Apply Discount"
+msgstr ""
+
+#: includes/class-edd-points-public.php:229
+#: includes/class-edd-points-public.php:245
+#, php-format
+#@ eddpoints
+msgid "%s Discount"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:94
+#@ eddpoints
+msgid "POINTS"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:96
+#, php-format
+#@ eddpoints
+msgid "You have %d Points"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:100
+#@ eddpoints
+msgid "EVENT"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:101
+#@ eddpoints
+msgid "DATE"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:289
+#@ eddpoints
+msgid "Remove"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:290
+#, php-format
+#@ eddpoints
+msgid "Remove %s Discount"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:311
+#@ eddpoints
+msgid "My current balance"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:345
+#@ eddpoints
+msgid "Points Earned:"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:353
+#@ eddpoints
+msgid "This can be a fixed number of points earned for purchasing this product. This setting modifies the global Points Conversion Rate and overrides any category value.Use 0 to assign no points for this product, and empty to use the global/category settings."
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:357
+#@ eddpoints
+msgid "Maximum Points Discount:"
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:366
+#, php-format
+#@ eddpoints
+msgid "Enter a fixed maximum discount amount which restricts the amount of points that can be redeemed for a discount. For example, if you want to restrict the discount on this product to a maximum of %s5, enter 5. This setting overrides the global and category settings. Use 0 to disable point discounts for this product, and blank to use the global/category defaults."
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:383
+#: includes/class-edd-points-renderer.php:411
+#@ eddpoints
+msgid "This can be a fixed number of points earned for the purchase of any product that belongs to this category. This setting modifies the global Points Conversion Rate, but can be overridden by a product. Use 0 to assign no earn points for products belonging to this category, and empty to use the global setting. If a product belongs to multiple categories which define different point levels, the highest available point count will be used when awarding points for purchase."
+msgstr ""
+
+#: includes/class-edd-points-renderer.php:384
+#: includes/class-edd-points-renderer.php:412
+#, php-format
+#@ eddpoints
+msgid "Enter a fixed maximum discount amount  which restricts  the amount of points that can be redeemed for a discount. For example, if you want to restrict the discount on this category to a maximum of %s5, enter 5. This setting overrides the global default, but can be overridden by a product. Use 0 to disable point discounts for this category, and blank to use the global setting. If a product belongs to multiple categories which define different point discounts, the lowest point count will be used when allowing points discount for purchase."
+msgstr ""
+
+#: includes/class-edd-points-scripts.php:82
+#@ eddpoints
+msgid "Processing..."
+msgstr ""
+
+#: includes/class-edd-points-scripts.php:83
+#@ eddpoints
+msgid "Are you sure you want to apply points to all previous orders that have not already had points generated? This cannot be reversed! Note that this can take some time in shops with a large number of orders, if an error occurs, simply Apply Points again to continue the process."
+msgstr ""
+
+#: includes/class-edd-points-shortcodes.php:47
+#, php-format
+#@ eddpoints
+msgid "Sorry, You have not earned any %s yet."
+msgstr ""
+
+#: includes/edd-points-misc-functions.php:40
+#@ eddpoints
+msgid "Points ="
+msgstr ""
+
+#: includes/edd-points-post-types.php:21
+#@ eddpoints
+msgid "Add New"
+msgstr ""
+
+#: includes/edd-points-post-types.php:22
+#@ eddpoints
+msgid "Add New Point"
+msgstr ""
+
+#: includes/edd-points-post-types.php:23
+#@ eddpoints
+msgid "Edit Point"
+msgstr ""
+
+#: includes/edd-points-post-types.php:24
+#@ eddpoints
+msgid "New Point"
+msgstr ""
+
+#: includes/edd-points-post-types.php:25
+#@ eddpoints
+msgid "All Points"
+msgstr ""
+
+#: includes/edd-points-post-types.php:26
+#@ eddpoints
+msgid "View Point"
+msgstr ""
+
+#: includes/edd-points-post-types.php:27
+#@ eddpoints
+msgid "Search Point"
+msgstr ""
+
+#: includes/edd-points-post-types.php:28
+#@ eddpoints
+msgid "No Points found"
+msgstr ""
+
+#: includes/edd-points-post-types.php:29
+#@ eddpoints
+msgid "No Points found in Trash"
+msgstr ""
+
